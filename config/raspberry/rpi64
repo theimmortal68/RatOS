@@ -4,7 +4,7 @@
 BASE_ARCH="arm64"
 
 # Keep for Bookworm template
-DOWNLOAD_URL_CHECKSUM=https://dietpi.com/downloads/images/DietPi_RPi5-ARMv8-Bookworm.img.xz"
+DOWNLOAD_URL_CHECKSUM="https://dietpi.com/downloads/images/DietPi_RPi5-ARMv8-Bookworm.img.xz"
 DOWNLOAD_URL_IMAGE="https://dietpi.com/downloads/images/DietPi_RPi5-ARMv8-Bookworm.img.xz.sha256"
 
 # New locations after Bullseye turned into 'oldstable'
